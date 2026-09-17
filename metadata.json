@@ -1,0 +1,6 @@
+{
+  "name": "Transformer Math Lab",
+  "description": "Interactive visual transformer neural network trained from scratch for arithmetic operations with real-time attention heatmaps and backpropagation inspection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
